@@ -12,7 +12,7 @@ Rock, Paper, Scissors?
 2) Then if you lose it should say
 'Welp. You lost'
 
-3)If you win it should say
+3) If you win it should say
 'Woohoo you win'
 or
 'AYY! you won'
