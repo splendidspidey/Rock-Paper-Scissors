@@ -1,4 +1,4 @@
-#Rock, Paper, Scissors!
+# Rock, Paper, Scissors!
 
 _If you want to learn how to do interactive games using Python, then this is great start for you._
 
