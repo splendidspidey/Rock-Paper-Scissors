@@ -4,6 +4,25 @@ _If you want to learn how to do interactive games using Python, then this is gre
 
 __In this code, You will learn how to do the quick game Rock, Paper, Scissors using Python.__
 
+__If using Python IDLE:__
+1) Open up Idle
+
+![image](https://user-images.githubusercontent.com/95857725/146641727-29dea1f7-3db1-4de6-ac24-bdd4dc0dc8f8.png)
+
+2) Then press __File__ and after that __New__
+
+![image](https://user-images.githubusercontent.com/95857725/146641761-612ce333-0560-4011-9b45-a29ff885fdbc.png)
+
+
+
+
+
+
+
+
+
+
+
 The outcomes of this code should be like this:
 
 1) The first thing it should say is:
