@@ -22,7 +22,7 @@ __In this code, You will learn how to do the quick game Rock, Paper, Scissors us
 
 ![image](https://user-images.githubusercontent.com/95857725/146641922-b31440fc-27fb-4e75-a3f0-7931602b8c6f.png)
 
-5) Then tyoe either Rock, Paper or Scissors into the input
+5) Then type either Rock, Paper or Scissors into the input
 
 ![image](https://user-images.githubusercontent.com/95857725/146641948-d724806f-096e-4bd3-a746-b601bb758ef5.png)
 
